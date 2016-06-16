@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:2:1-40:12
+	xmlns:tools
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:4:5-51
+	xmlns:android
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:9:22-69
+application
+ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:11:5-38:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.amigold.fundapter:library:1.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.github.amigold.fundapter\library\1.0\AndroidManifest.xml:5:5-7:19
+	android:supportsRtl
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:13:9-43
+		REJECTED from [com.github.amigold.fundapter:library:1.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.github.amigold.fundapter\library\1.0\AndroidManifest.xml:5:45-81
+	android:theme
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:16:9-40
+	tools:replace
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:17:9-37
+activity#com.example.ext01d1840.expert.SplashScreen
+ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.ext01d1840.expert.MainActivity
+ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:28:13-41
+intent-filter#android.intent.action.MainActivity+android.intent.category.DEFAULT
+ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MainActivity
+ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:32:25-74
+category#android.intent.category.DEFAULT
+ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:34:27-73
+activity#com.example.ext01d1840.expert.xtSistemeGiris
+ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:37:9-61
+	android:name
+		ADDED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml:37:19-49
+uses-sdk
+INJECTED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.github.amigold.fundapter:library:1.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.github.amigold.fundapter\library\1.0\AndroidManifest.xml:3:5-72
+	android:targetSdkVersion
+		INJECTED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjelerim\Expert2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] D:\AndroidProjelerim\Expert2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
